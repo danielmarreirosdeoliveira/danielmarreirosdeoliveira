@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Daniel de Oliveira
 
 I am currently working on a desktop/server suite of tools for archaeological field recording,
-where we use Elixir and TypeScript.
+where we use `Elixir` and `TypeScript`.
 
 I like functional programming and for my hobby projects I usually choose `Clojure`.
 
