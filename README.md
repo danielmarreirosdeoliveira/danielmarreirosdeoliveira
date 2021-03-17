@@ -3,7 +3,7 @@
 I am currently working on a desktop/server suite of tools for archaeological field recording,
 where we use `Elixir` and `TypeScript`, `React`, `Angular` and `Electron`.
 
-I like functional programming and for my hobby projects I usually choose `Clojure/ClojureScript`, though lately I am also beginning to keep an eye on the developments around `ReasonML/ReScript`.
+I really came to appreciate functional programming and for my hobby projects I usually choose `Clojure/ClojureScript`, though lately I am also beginning to keep an eye on the developments around `ReasonML/ReScript`.
 
 Trained in the field of `digital humanities` and a background in linguistics and philosophy one of my professsional fields of interest revolves around the modelling of complex domains (which archaeology is an excellent example of). Those domains are often required to reflect multiple viewpoints and also can evolve over time, both of which are non-trivial problems in the space of computer systems. 
 
