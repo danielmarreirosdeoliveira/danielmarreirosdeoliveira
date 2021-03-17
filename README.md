@@ -3,9 +3,9 @@
 I am currently working on a desktop/server suite of tools for archaeological field recording,
 where we use `Elixir` and `TypeScript`, `React`, `Angular` and `Electron`.
 
-Trained in the field of `digital humanities` and a background in linguistics and philosophy one of my fields of interest naturally revolves around the modelling of complex domains. Those domains typically are often required to reflect multiple viewpoints and also can evolve over time, both of which are non-trivial problems in the space of computer systems. 
+Trained in the field of `digital humanities` and a background in linguistics and philosophy one of my professsional fields of interest revolves around the modelling of complex domains, which archaeology is an excellent example of. Those domains typically are often required to reflect multiple viewpoints and also can evolve over time, both of which are non-trivial problems in the space of computer systems. 
 
-While adressing these problems has to be solved in the field, on practical terms, over the years the observed problems continued to inspire me to investigate the cognitive foundations of modelling, which in turn is closely related to questions of General Artificial Intelligence, seen from this narrower perspective as general knowledge systems.
+While adressing these problems has to be solved in the field, on practical terms, over the years the observed problems continued to inspire me to investigate the cognitive foundations of modelling, towards thinking about the concept and origins of `concepts`, which in turn leads naturally to questions of General Artificial Intelligence, seen from this narrower perspective as general knowledge systems.
 
 I like functional programming and for my hobby projects I usually choose `Clojure/ClojureScript`, though lately I am also beginning to keep an eye on the developments around `ReasonML/ReScript`.
 
