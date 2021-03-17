@@ -3,7 +3,7 @@
 I am currently working on a desktop/server suite of tools for archaeological field recording,
 where we use `Elixir` and `TypeScript`, `React`, `Angular` and `Electron`.
 
-I like functional programming and for my hobby projects I usually choose `Clojure`.
+I like functional programming and for my hobby projects I usually choose `Clojure/ClojureScript`, though lately I am also beginning to keep an eye on the developments around `ReasonML/ReScript`.
 
 <!--
 **danielmarreirosdeoliveira/danielmarreirosdeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
