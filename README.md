@@ -4,15 +4,12 @@ I am currently working on a desktop/server suite of tools for archaeological fie
 where we use `Elixir` and `TypeScript`, `React`, `Angular` and `Electron`, `elasticsearch`, `couchdb/pouchdb`, `leaflet` and other technologies. See
 
 https://github.com/dainst/idai-field
-
 https://github.com/dainst/idai-field-web
-
 https://github.com/danielmarreirosdeoliveira/tsfun
 
 I really came to appreciate functional programming and for my hobby projects I usually choose `Clojure/ClojureScript`. See for example
 
 https://github.com/danielmarreirosdeoliveira/clojure-tutorial
-
 https://github.com/danielmarreirosdeoliveira/fullstack-clj
 
 Lately I am also beginning to keep an eye on the developments around `ReasonML/ReScript/Melange/Caramel`.
