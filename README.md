@@ -15,6 +15,8 @@ https://github.com/danielmarreirosdeoliveira/clojure-tutorial
 
 https://github.com/danielmarreirosdeoliveira/fullstack-clj
 
+https://github.com/danielmarreirosdeoliveira/The-Monad-Tutorial
+
 Lately I am also beginning to keep an eye on the developments around `ReasonML/ReScript/Melange/Caramel`.
 
 Trained in the field of `digital humanities` and a background in linguistics and philosophy one of my professsional fields of interest revolves around the modelling of complex domains (which archaeology is an excellent example of). Those domains are often required to reflect multiple viewpoints and also can evolve over time, both of which are non-trivial problems in the space of computer systems. 
