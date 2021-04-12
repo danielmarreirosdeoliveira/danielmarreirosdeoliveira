@@ -15,7 +15,7 @@ https://github.com/danielmarreirosdeoliveira/clojure-tutorial
 
 https://github.com/danielmarreirosdeoliveira/fullstack-clj
 
-https://github.com/danielmarreirosdeoliveira/The-Monad-Tutorial
+https://github.com/danielmarreirosdeoliveira/the-monad-tutorial
 
 Lately I am also beginning to keep an eye on the developments around `ReasonML/ReScript/Melange/Caramel`.
 
