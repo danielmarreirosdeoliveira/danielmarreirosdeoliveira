@@ -9,13 +9,13 @@ https://github.com/dainst/idai-field-web
 
 https://github.com/danielmarreirosdeoliveira/tsfun
 
+https://github.com/danielmarreirosdeoliveira/fallible
+
 I really came to appreciate functional programming and for my hobby projects I usually choose `Clojure/ClojureScript`. See for example
 
 https://github.com/danielmarreirosdeoliveira/clojure-tutorial
 
 https://github.com/danielmarreirosdeoliveira/fullstack-clj
-
-https://github.com/danielmarreirosdeoliveira/the-monad-tutorial
 
 Lately I am also beginning to keep an eye on the developments around `ReasonML/ReScript/Melange/Caramel`.
 
