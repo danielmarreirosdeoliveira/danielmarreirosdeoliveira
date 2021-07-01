@@ -7,7 +7,7 @@ https://github.com/dainst/idai-field
 
 https://github.com/dainst/idai-field-web
 
-https://github.com/danielmarreirosdeoliveira/tsfun
+https://github.com/dainst/tsfun
 
 https://github.com/danielmarreirosdeoliveira/fallible
 
