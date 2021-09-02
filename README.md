@@ -5,12 +5,16 @@ where we use `Elixir` and `TypeScript`, `React`, `Angular` and `Electron`, `elas
 
 https://github.com/dainst/idai-field
 
-https://github.com/dainst/tsfun
+for which I wrote this functional combinator library
 
-https://github.com/danielmarreirosdeoliveira/fallible
+https://github.com/dainst/tsfun
 
 I love functional programming and for my preferred choice is `Clojure/ClojureScript`. See for example
 
 https://github.com/danielmarreirosdeoliveira/clojure-tutorial
 
 https://github.com/danielmarreirosdeoliveira/fullstack-clj
+
+There is also and experimental addition for `tsfun`, which explores a monadic program flow.
+
+https://github.com/danielmarreirosdeoliveira/fallible
