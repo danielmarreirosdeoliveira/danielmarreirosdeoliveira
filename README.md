@@ -9,7 +9,7 @@ for which I wrote this functional combinator library
 
 https://github.com/dainst/tsfun
 
-I love functional programming and for my preferred choice is `Clojure/ClojureScript`. See for example
+I love functional programming and my preferred choice is `Clojure/ClojureScript`. See for example
 
 https://github.com/danielmarreirosdeoliveira/clojure-tutorial
 
