@@ -1,3 +1,3 @@
 ![front](front5.png)
 
-[eighttrigrams](https://github.com/eighttrigrams)
+[github.com/eighttrigrams](https://github.com/eighttrigrams)
