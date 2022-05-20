@@ -1,3 +1,3 @@
 ![front](front5.png)
 
-[github.com/eighttrigrams](https://github.com/eighttrigrams)
+`GOTO` [github.com/eighttrigrams](https://github.com/eighttrigrams)
