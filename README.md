@@ -2,4 +2,4 @@
 
 `010 REM NEW PROFILE:`
 
-`020 GOTO` [github.com/eighttrigrams](https://github.com/eighttrigrams)
+`020 GOTO` [eighttrigrams](https://github.com/eighttrigrams)
